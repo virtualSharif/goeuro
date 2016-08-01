@@ -1,0 +1,5 @@
+com/goeuro/rest/ApiEndPointAccessor.class
+com/goeuro/model/GeoPositionDTO.class
+com/goeuro/model/CityDTO.class
+com/goeuro/business/BusinessService.class
+com/goeuro/Application.class

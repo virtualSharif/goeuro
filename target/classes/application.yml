@@ -1,0 +1,5 @@
+endpoint:
+  url: http://api.goeuro.com/api/v2/position/suggest/en/
+  
+output:
+  filename: output.csv

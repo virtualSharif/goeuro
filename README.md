@@ -1,4 +1,4 @@
-GoEuroTest Java Developer -- Solution By : Sharif Malik
+GoEuroTest Java Developer -- By: Sharif Malik
 ============================
 Note : Solution is solved using
 i.	Spring Tool Suite,
